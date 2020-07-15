@@ -1,0 +1,20 @@
+.navigationList {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.navigationListItem {
+    text-transform: uppercase;
+    margin: 20px;
+    font-weight: 800;
+}
+
+.navigLink {
+    text-decoration: none;
+}
+
+.activeLink {
+    color: red;
+}
+
